@@ -1,6 +1,6 @@
 ## Taller8
 
-### Elaboración de ejercicios sobre Jerarquía de Herencia a través de Diagramas UML y Lenguaje de alto nivel
+### Elaboración de ejercicios sobre jerarquía de herencia a través de diagramas UML y lenguaje de alto nivel
 
 #### Problemática
 
