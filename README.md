@@ -29,15 +29,15 @@ Una universidad ha proporcionado la siguiente información sobre los docentes y 
 
 2. Usar el proyecto de Netbeans llamado **Talle08**
 
-  2.1. Generar la clase Docente
+    2.1. Generar la clase Docente
 
-  2.2. Generar la clase DocenteNombramiento
+    2.2. Generar la clase DocenteNombramiento
 
-  2.3. Generar la clase DocenteFactura
+    2.3. Generar la clase DocenteFactura
 
-  2.4. Generar la clase Ejecutor. En el método **main**, se debe permitir ingresar objetos de tipo DocenteNombramiento y DocenteFactura. Uno a la vez. Si el usuario ingresa 1, se debe crear un DocenteNombramiento por teclado; si ingresa 2, se debe crear un DocenteFactura. Los datos de entrada serán ingresados por teclado. Si el usuario ingresa algo diferente de 1 o 2; el programa debe presentar un mensaje que diga: "Error, opción no válida.". Se debe presentar la información de cada objeto creado a través de to String.
+    2.4. Generar la clase Ejecutor. En el método **main**, se debe permitir ingresar objetos de tipo DocenteNombramiento y DocenteFactura. Uno a la vez. Si el usuario ingresa 1, se debe crear un DocenteNombramiento por teclado; si ingresa 2, se debe crear un DocenteFactura. Los datos de entrada serán ingresados por teclado. Si el usuario ingresa algo diferente de 1 o 2; el programa debe presentar un mensaje que diga: "Error, opción no válida.". Se debe presentar la información de cada objeto creado a través de to String.
 
-  2.5. Generar la clase EjecutorDos. En el método **main**, se debe permitir ingresar muchos objetos de tipo DocenteNombramiento y DocenteFactura. Uno a la vez. Si el usuario ingresa 1, se debe crear un DocenteNombramiento por teclado; si ingresa 2, se debe crear un DocenteFactura. Los datos de entrada serán ingresados por teclado. Si el usuario ingresa algo diferente de 1 o 2; el programa debe presentar un mensaje que diga: "Error, opción no válida." Al finalizar el ciclo, cuando el usuario lo decida, se debe presentar la lista de docentes con nombramiento ingresados, y la lista de docentes con factura. Atención **NO se debe usar arreglos de ningún tipo**
+    2.5. Generar la clase EjecutorDos. En el método **main**, se debe permitir ingresar muchos objetos de tipo DocenteNombramiento y DocenteFactura. Uno a la vez. Si el usuario ingresa 1, se debe crear un DocenteNombramiento por teclado; si ingresa 2, se debe crear un DocenteFactura. Los datos de entrada serán ingresados por teclado. Si el usuario ingresa algo diferente de 1 o 2; el programa debe presentar un mensaje que diga: "Error, opción no válida." Al finalizar el ciclo, cuando el usuario lo decida, se debe presentar la lista de docentes con nombramiento ingresados, y la lista de docentes con factura. Atención **NO se debe usar arreglos de ningún tipo**
 
 Restricciones:
 
